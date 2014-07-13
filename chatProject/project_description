@@ -1,0 +1,5 @@
+This nodeJS app assumes the following:
+
+1. You have a mangoDB database installed and running on your machine
+2. You installed node on your machine
+3. Install socket.io and mongodb packages into the project with node packet manager (npm)
